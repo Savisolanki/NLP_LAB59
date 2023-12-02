@@ -1,3 +1,8 @@
+'''Name:Savi Solanki
+Batch:B3
+Roll no:59
+Pract no 6: Implement and visualize dependancy parsing of textual data using stanford core NLP and spacy librarary'''
+
 import spacy
 nlp = spacy.load("en_core_web_sm")
 from spacy import displacy
